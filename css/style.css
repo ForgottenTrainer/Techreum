@@ -256,6 +256,11 @@ footer {
     margin-bottom: 10px;
 }
 
+.content-foo  a {
+    color: white;
+    text-decoration: none;
+}
+
 .content-foo p{
     color:#ccc;
 }
